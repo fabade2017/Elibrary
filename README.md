@@ -21,10 +21,7 @@ Frontend: Laravel Blade Templates
 
 <img width="1786" height="964" alt="Screenshot 2026-04-30 at 22 49 46" src="https://github.com/user-attachments/assets/f0a97f5f-3416-463a-8ede-48e904b7ab6a" />
 
-<img width="1789" height="982" alt="Screenshot 2026-04-30 at 22 38 50" src="https://github.com/user-attachments/assets/0d84e72e-9b98-4866-a25b-e7e9f4d9cb1f" />
-
 <img width="1789" height="989" alt="Screenshot 2026-04-30 at 22 52 08" src="https://github.com/user-attachments/assets/5a61b4e3-edc5-4b29-a5ba-27e63c9d0536" />
-
 
 <img width="1790" height="979" alt="Screenshot 2026-04-30 at 22 52 41" src="https://github.com/user-attachments/assets/6826950f-be98-4154-aade-7839c378f9a9" />
 
